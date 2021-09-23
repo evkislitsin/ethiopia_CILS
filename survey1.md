@@ -39,5 +39,5 @@
 
 
 Ссылки на таблицу и опрос:
-https://forms.gle/5NLZVcPBEZjjLrhZ7
-https://docs.google.com/spreadsheets/d/1jO1eDVsoTLJQcFOiglYIi5gDsQx1uKPq-hq1Ywx2PDU/edit?usp=sharing
+- https://forms.gle/5NLZVcPBEZjjLrhZ7
+- https://docs.google.com/spreadsheets/d/1jO1eDVsoTLJQcFOiglYIi5gDsQx1uKPq-hq1Ywx2PDU/edit?usp=sharing
